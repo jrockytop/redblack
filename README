@@ -1,4 +1,4 @@
-A double linked bottom-up 2-3-4 tree using the red-black library.
+A double linked bottom-up 2-3-4 tree using the red-black framework.
 
 Based on algorithms from the following papers:
 

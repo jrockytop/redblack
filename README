@@ -1,0 +1,11 @@
+A double linked bottom-up 2-3-4 tree using the red-black library.
+
+Based on algorithms from the following papers:
+
+L. Guibas and R. Sedgewick.  "A Dichromatic Framework For Balanced
+Trees.", In Proceedings of the 19th Annual Symposium on Foundations
+of Computer Science, pages 8-21, 1978.
+ 
+N. Sarnak and R.E. Tarjan.  "Planar Point Location Using Persistent
+Search Trees.", Communications of the ACM, 29:669-679, 1986.
+ 
